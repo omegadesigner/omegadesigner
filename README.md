@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2 align="center">Hi there, I'm Geoffrey</h2>
 
-<!--
-**omegadesigner/omegadesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Overview
+-Junior Developer with over 10 years of experience who is now making a transition from hardware to software. My methodology is based on analytical abstraction, coupled with creative problem-solving to create consistent and reliable results. My experience brings together troubleshooting, customer communication, and resource management to help create quality user experiences. The challenge of creating these experiences, as well as their unending variety, is what has prompted my career pivot to Software Development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages, Frameworks & Platforms
+-VSCode
+-HTML
+-JS
+-Node
+-React
+-CSS
+-SQL
+-Ruby
+-Rails
+-Netlify
+-Heroku
+-C++
+-Java
